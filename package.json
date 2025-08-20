@@ -1,0 +1,18 @@
+{
+  "name": "shoppingcartshopeewithnodejs",
+  "version": "1.0.0",
+  "description": "Sistema de carrinho de compras inspirado na Shopee utilizando Node.js, executado no terminal.",
+  "keywords": [
+    "Carrinho_de_compras",
+    "Node.js",
+    "Terminal"
+  ],
+  "license": "ISC",
+  "author": "Leandro L. Silva",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:dev": "node ./src/index.js"
+  }
+}
